@@ -29,10 +29,12 @@ either method by a significant margin.
 >
 If you are using our codes, please cite our work:
 ```
-@article{plotka2022babynet,
+@inproceedings{plotka2022babynet,
   title={BabyNet: Residual Transformer Module for Birth Weight Prediction on Fetal Ultrasound Video},
-  author={P{\l}otka, Szymon and Grzeszczyk, Micha{\l} K and Brawura-Biskupski-Samaha, Robert and Gutaj, Pawe{\l} and Lipa, Micha{\l} and Trzci{\'n}ski, Tomasz and Sitek, Arkadiusz},
-  journal={arXiv preprint arXiv:2205.09382},
-  year={2022}
+  author={P{\l}otka, Szymon and Grzeszczyk, Michal K and Brawura-Biskupski-Samaha, Robert and Gutaj, Pawe{\l} and Lipa, Micha{\l} and Trzci{\'n}ski, Tomasz and Sitek, Arkadiusz},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={350--359},
+  year={2022},
+  organization={Springer}
 }
 ```
